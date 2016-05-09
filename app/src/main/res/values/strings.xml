@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MiAppDatos</string>
+    <string name="app_namecom">Nombre Completo</string>
+    <string name="app_date">Set Date</string>
+    <string name="app_phone">Telefono</string>
+    <string name="app_email">Email</string>
+    <string name="app_desc"> </string>
+
+</resources>
